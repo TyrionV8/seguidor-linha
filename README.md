@@ -152,8 +152,6 @@ seguidor-linha/
 └── docs/imagens/                  # registro visual do protótipo
 ```
 
-## 🤝 Contribuições
-
-Sugestões e melhorias são bem-vindas. Antes de propor uma alteração, indique qual programa e qual montagem foram usados; se possível, descreva as condições de teste e os resultados observados. Isso ajuda a distinguir uma melhoria de código de um comportamento que depende da pista ou da eletrônica.
+## 📄 Licença
 
 O repositório não apresenta uma licença geral para o código do projeto. As bibliotecas de terceiros em `libraries/` mantêm suas respectivas licenças; consulte seus arquivos antes de reutilizá-las.
